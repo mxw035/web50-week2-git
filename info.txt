@@ -1,0 +1,1 @@
+to make info go to the git hub website you have to make files and edit them on vsc then git add . then commit on git and then push at that point you should be able to see changes on github online.
